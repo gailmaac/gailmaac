@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Abigail Tan, a recent graduate from the Polytechnic University of the Philippines wherein I took Bachelors of Science in Information Technology.
+
 <!--
 **gailmaac/gailmaac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
